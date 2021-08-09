@@ -1,0 +1,25 @@
+body {
+    font-family: 'Nunito', sans-serif !important;
+}
+
+.p-botbar {
+    font-size: x-small !important;
+}
+
+.nav-link-custom {
+    background-color: transparent !important;
+    color: #0c1e2d !important;
+}
+
+.carousel-indicators {
+    margin-bottom: .1rem !important;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: white !important;
+}
+
+.img-custom {
+    width: 100% !important;
+    height: 400px !important;
+}
